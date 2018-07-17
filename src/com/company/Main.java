@@ -6,5 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("hello SVW");
         System.out.println("hello auto+");
+        System.out.println("hello SVW");
+        System.out.println("hello SVW");
+        System.out.println("hello World");
     }
 }
